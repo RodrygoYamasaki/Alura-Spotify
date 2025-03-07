@@ -102,3 +102,13 @@ body {
     margin: 8px 0;
     padding: 16px 20px;
 }
+
+.section-playlist .section-playlist__content {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-playlist__content .text {
+    padding-bottom: 14px;
+    color: #fff;
+}
